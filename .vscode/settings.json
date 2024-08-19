@@ -1,0 +1,12 @@
+{
+    "cSpell.words": [
+        "escopodev",
+        "opentelemetry",
+        "otel",
+        "otelhttp",
+        "otlp",
+        "otlptrace",
+        "otlptracegrpc",
+        "semconv"
+    ]
+}
